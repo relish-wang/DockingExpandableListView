@@ -4,9 +4,9 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity">
+        tools:context="wang.relish.widget.delv.sample.MainActivity">
 
-    <com.xinxin.dockingexpandablelistview.view.DockingExpandableListView
+    <wang.relish.widget.delv.DockingExpandableListView
             android:id="@+id/docking_list_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>

@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Android应用与开发环境",
+    "items": [
+      {
+        "name": "Android的发展和历史"
+      },
+      {
+        "name": "搭建Android开发环境"
+      },
+      {
+        "name": "Android常用开发工具的用法"
+      },
+      {
+        "name": "开始第一个Android应用"
+      },
+      {
+        "name": "Android应用结构分析"
+      },
+      {
+        "name": "Android应用的基本组件介绍"
+      },
+      {
+        "name": "签名Android应用程序"
+      }
+    ]
+  },
+  {
+    "name": "Android应用的界面编程",
+    "items": [
+      {
+        "name": "界面编程与视图(View)组件"
+      },
+      {
+        "name": "第1组UI组件: 布局管理器"
+      },
+      {
+        "name": "第2组UI组件: TextView"
+      },
+      {
+        "name": "第3组UI组件: ImageView"
+      },
+      {
+        "name": "第4组UI组件: AdapterView"
+      },
+      {
+        "name": "第5组UI组件: ProgressBar"
+      },
+      {
+        "name": "第6组UI组件: ViewAnimator"
+      },
+      {
+        "name": "各种杂项组件"
+      },
+      {
+        "name": "对话框"
+      },
+      {
+        "name": "菜单"
+      },
+      {
+        "name": "使用活动条(ActionBar)"
+      }
+    ]
+  },
+  {
+    "name": "Android的事件处理",
+    "items": [
+      {
+        "name": "Android事件处理概述"
+      },
+      {
+        "name": "基于监听的事件处理"
+      },
+      {
+        "name": "基于回调的事件处理"
+      },
+      {
+        "name": "响应的系统设置的事件"
+      },
+      {
+        "name": "Handler的消息传递机制"
+      },
+      {
+        "name": "异步任务(AsyncTask)"
+      }
+    ]
+  },
+  {
+    "name": "深入理解Activity与Fragment",
+    "items": [
+      {
+        "name": "建立、配置和使用Activity"
+      },
+      {
+        "name": "Activity的回调机制"
+      },
+      {
+        "name": "Activity的生命周期与加载模式"
+      },
+      {
+        "name": "Fragment详解"
+      },
+      {
+        "name": "Fragment的生命周期"
+      }
+    ]
+  },
+  {
+    "name": "使用Intent和IntentFilter进行通信",
+    "items": [
+      {
+        "name": "Intent对象详解"
+      },
+      {
+        "name": "Intent的属性及intent-filter配置"
+      },
+      {
+        "name": "Activity的生命周期与加载模式"
+      },
+      {
+        "name": "使用Intent创建Tab页面"
+      }
+    ]
+  },
+  {
+    "name": "Android应用的资源",
+    "items": [
+      {
+        "name": "资源的类型及存储方式"
+      },
+      {
+        "name": "使用字符串、颜色、尺寸资源"
+      },
+      {
+        "name": "数组(Array)资源"
+      },
+      {
+        "name": "使用(Drawable)资源"
+      },
+      {
+        "name": "属性动画(Property Animation)资源"
+      },
+      {
+        "name": "使用原始XML资源"
+      },
+      {
+        "name": "使用布局(Layout)资源"
+      },
+      {
+        "name": "使用菜单(Menu)资源"
+      },
+      {
+        "name": "使用样式(Style)和主题(Theme)资源"
+      },
+      {
+        "name": "使用属性(Attribute)资源"
+      },
+      {
+        "name": "使用原始资源"
+      },
+      {
+        "name": "国际化和资源自适应"
+      },
+      {
+        "name": "自适应不同屏幕的资源"
+      }
+    ]
+  }
+]
